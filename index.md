@@ -1,3 +1,11 @@
 # MD is good
-I just læv it
+Here is a code example 
+``` javascript
+var myVar = "Hello, world!";
+```
+Here is another one
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
